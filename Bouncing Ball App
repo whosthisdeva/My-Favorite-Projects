@@ -1,13 +1,1 @@
-<html>
-  <head>
-    <title>Eva's Bouncing Ball App</title>
-  </head>
-  <body bgcolor="#000000">
-    <h1 style="color: #ffffff;">Eva's Animated Bouncing Ball Drawing Program</h1>
-    <button type="button" onclick="clearScreen();">Click to clear the screen!</button>
-    <br> </br>
-    <canvas id="imgCanvas" width="1900" height="800"
-    onclick="draw(event)" onmousemove="draw(event)"> </canvas>
-    <script> </script>
-  </body>
-</html>
+
