@@ -8,6 +8,6 @@
     <br> </br>
     <canvas id="imgCanvas" width="1900" height="800"
     onclick="draw(event)" onmousemove="draw(event)"> </canvas>
-    <script src="bouncy.js"></script>
+    <script> </script>
   </body>
 </html>
